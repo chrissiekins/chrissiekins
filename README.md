@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the ukelele, Python, Git, and advertising analytics.
 - 💞️ I’m looking to collaborate on open source software, editing docs, finding cool open source marketing tools.
 - 🕴️ I'm the head enchilada at LeanSprint Marketing and I help lean marketing teams at tech startups build processes and outrun burnout.
-- 📫 Send me an email at chrissie@hey.com or chrissie@leansprintmarketing - or just comment on a commit
+- 📫 Send me an email at chrissie@hey.com or chrissie@leansprintmarketing.com - or just comment on a commit
 
 <!---
 chrissiekins/chrissiekins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
